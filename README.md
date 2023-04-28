@@ -12,7 +12,8 @@
 ##### extracted from https://psl.noaa.gov/data/gridded/data.kaplan_sst.html
 
 #### The Sea Around Us fisheries catch data for New Zealand's EEZ (accessed 01 May 2022)
-#### (files: 'SAU EEZ 554 v50-0.csv' & 'SAU EEZ 555 v50-0.csv')
+#### (files: 'SAU EEZ 554 v50-1.csv' & 'SAU EEZ 554 v50-2.csv' & 
+#### 'SAU EEZ 554 v50-3.csv' & 'SAU EEZ 555 v50-0.csv')
 ##### This data is available at https://www.seaaroundus.org/
 
 #### Species milieu classifications (Excel document), with
